@@ -13,7 +13,7 @@
 
 <p>
   Desenvolvedor de Software | IA Generativa, LLMs & Agentes | Python & C#<br>
-  Atualmente, atuo como <b>Full-stack Developer no Instituto de Pesquisas Tecnológicas (IPT)</b>, participando ativamente de todo o ciclo de desenvolvimento, desde levantamento de requisitos até o deploy em produção.
+  Atualmente, atuei como <b>Full-stack Developer no Instituto de Pesquisas Tecnológicas (IPT)</b>, participando ativamente de todo o ciclo de desenvolvimento, desde levantamento de requisitos até o deploy em produção.
 </p>
 
 <p>
